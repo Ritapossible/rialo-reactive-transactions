@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-**Rialo Sandbox** is a gamified testnet environment that allows users to safely explore how Rialo blockchain automated reactive transactions work. It provides an interactive platform to simulate automated workflow transactions, experiment with strategies, and learn Rialo blockchain mechanics without real financial risk.
+**Rialo reactive transations(Sandbox)** is a gamified testnet environment that allows users to safely explore how Rialo blockchain automated reactive transactions work. It provides an interactive platform to simulate automated workflow transactions, experiment with strategies, and learn Rialo blockchain mechanics without real financial risk.
 
 **Live Demo:** [https://rialo-sandbox.vercel.app](https://rialo-sandbox.vercel.app)
 
@@ -164,7 +164,7 @@ Supabase Edge Functions should be deployed using the Supabase CLI.
 
 ## Mini-Rialo Simulator is designed to:
 
-Teach how Rialo automated interactive transactions works.
+Teach how Rialo automated reactive transactions works.
 
 Enable safe experimentation with workflows.
 
