@@ -100,7 +100,7 @@ Clone the repository and edit locally. Push changes to GitHub; deployments will 
 ## Deployment
 
 This project is deployed on **Vercel**. To deploy locally:
-```sh
+
 npm run build
 npm run preview
 
