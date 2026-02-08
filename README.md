@@ -61,7 +61,6 @@
 
 ### Installation
 
-```sh
 # Step 1: Clone the repository
 git clone <YOUR_GIT_URL>
 
