@@ -62,17 +62,32 @@
 ## Installation
 
 ### Step 1: Clone the repository
+
+```bash
 git clone <YOUR_GIT_URL>
 
+```
+
 ### Step 2: Navigate to the project directory
+
+```bash
 cd <YOUR_PROJECT_NAME>
 
+```
+
 ### Step 3: Install dependencies
+
+```bash
 npm install
 
+```
+
 ### Step 4: Start the development server
+
+```bash
 npm run dev
 
+```
 The development server will run locally with live reloading, so you can preview changes instantly.
 
 ---
@@ -119,9 +134,12 @@ cp .env.example .env
 
 ### Fill in your Supabase values:
 
+```bash
 VITE_SUPABASE_PROJECT_ID=your_project_id
 VITE_SUPABASE_PUBLISHABLE_KEY=your_anon_key
 VITE_SUPABASE_URL=https://your_project_id.supabase.co
+
+```
 
 ---
 
@@ -146,7 +164,7 @@ Supabase Edge Functions should be deployed using the Supabase CLI.
 
 ## Mini-Rialo Simulator is designed to:
 
-Teach how Rialo automation interactive transactions works.
+Teach how Rialo automated interactive transactions works.
 
 Enable safe experimentation with workflows.
 
