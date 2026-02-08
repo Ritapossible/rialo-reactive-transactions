@@ -59,18 +59,18 @@
 
 - Node.js & npm ([install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating))
 
-### Installation
+## Installation
 
-# Step 1: Clone the repository
+### Step 1: Clone the repository
 git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory
+### Step 2: Navigate to the project directory
 cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install dependencies
+### Step 3: Install dependencies
 npm install
 
-# Step 4: Start the development server
+### Step 4: Start the development server
 npm run dev
 
 The development server will run locally with live reloading, so you can preview changes instantly.
