@@ -101,9 +101,11 @@ Clone the repository and edit locally. Push changes to GitHub; deployments will 
 
 This project is deployed on **Vercel**. To deploy locally:
 
+```bash
 npm run build
 npm run preview
 
+```
 ---
 
 ## Configure environment variables
@@ -113,6 +115,7 @@ Create a `.env` file from the example:
 ```bash
 cp .env.example .env
 
+```
 
 ### Fill in your Supabase values:
 
